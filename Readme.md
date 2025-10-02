@@ -4,11 +4,12 @@
 Goal: let product teams quickly assemble interfaces, test hypotheses, and measure impact — all in one loop.
 
 This repository is the **root** (navigator). The code currently lives in two separate repositories:
-- **uxl-core** — lexer, grammar, parser, minimal contract transpiler.
-- **uxl-kit** — CLI utilities and the project build runner.
-- uxl-backend 
-- uxl-runner-web
-- uxl-runner-mobile
+- [**uxl-core**](https://github.com/simplizio/uxl-core) — lexer, grammar, parser, minimal contract transpiler.
+- [**uxl-kit**](https://github.com/simplizio/uxl-kit) — CLI utilities and the project build runner.
+- [uxlab-studio](https://github.com/simplizio/uxlab-studio)
+- [uxl-backend](https://github.com/simplizio/uxl-backend) 
+- [uxl-runner-web](https://github.com/simplizio/uxl-runner-web)
+- [uxl-runner-mobile](https://github.com/simplizio/uxl-runner-mobile)
 
 > Add links to these repositories here after you publish them (see “Repositories” below).
 
