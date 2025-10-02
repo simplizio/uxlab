@@ -286,4 +286,5 @@ Project is licensed under Apache 2.0 license
 
 ## Contact
 
-Add a link to discussions/chat or a contact for questions once the project opens up.
+The development team contacts are available at the website:
+https://uxlab.simplizio.com
